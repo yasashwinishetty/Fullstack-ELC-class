@@ -1,0 +1,28 @@
+[
+    {
+        "id":1,
+        "name":"KFC",
+        "location": "Bangalore",
+        "rating" : 4.5
+    },
+    {
+        "id":2,
+        "name":"A2B",
+        "location": "Bangalore",
+        "rating" : 4.5
+    },
+
+    {
+        "id":3,
+        "name":"Hotel Taj",
+        "location": "Pune",
+        "rating" : 4.5
+    },
+    
+    {
+        "id":4,
+        "name":"Hotel Taj",
+        "location": "Pune",
+        "rating" : 4.5
+    }
+]

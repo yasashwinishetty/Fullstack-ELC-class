@@ -1,0 +1,34 @@
+Express
+
+//routing -- routers
+//HTTP
+app.get() // default
+app.post()
+app.put()
+app.delete()
+
+request == client -- server
+response == server -- client
+
+API--- Application Programming interface
+
+
+Testing routes-- Postman
+
+Restaurant API
+    get- Restaurantlist API
+    get- location API
+    get- meal type--API
+
+
+JSON -- Data 
+
+Framework -- Springboot -- java
+             Django -- Python
+             Express -- Node JS
+
+             MVC -- Mode
+             
+             Model 
+             view -- react 
+             controller
